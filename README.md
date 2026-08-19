@@ -7,3 +7,5 @@ Turpinām!
 Viss ir savās vietās - Turpinām!
 
 Turpinām!
+
+Pievienojām Upstash Redis!
