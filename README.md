@@ -3,3 +3,5 @@
 Tieši tā!
 
 Turpinām!
+
+Viss ir savās vietās - Turpinām!
