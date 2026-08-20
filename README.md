@@ -13,3 +13,5 @@ Pievienojām Upstash Redis!
 Radās kļūda!
 
 Ar .zip arhīvu 2. backups!
+
+Merkle root pievienojām!
