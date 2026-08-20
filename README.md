@@ -19,3 +19,5 @@ Merkle root pievienojām!
 tokenId labojums!
 
 Pievienots healtsChecks.js fails!
+
+Ir vērojamas problēmas!
