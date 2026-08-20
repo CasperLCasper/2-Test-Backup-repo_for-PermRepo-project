@@ -17,3 +17,5 @@ Ar .zip arhīvu 2. backups!
 Merkle root pievienojām!
 
 tokenId labojums!
+
+Pievienots healtsChecks.js fails!
