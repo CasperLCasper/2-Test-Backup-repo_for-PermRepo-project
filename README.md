@@ -40,3 +40,5 @@ Pārbaudīsim, kā strādā "veselības pārbaude"!
 
 Turpinām!
 Mēģinam vēl!
+
+FAILU ATJAUNOŠANA (RESTORE) CAUR PLATFORMU!
