@@ -35,3 +35,5 @@ Pārbaudām!
 Turpinām!
 
 Pārbaudīsim, kā strādā "veselības pārbaude"!
+
+Turpinām!
