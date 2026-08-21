@@ -51,3 +51,5 @@ ATKĀRTOJAM FAILU ATJAUNOŠANU (RESTORE) CAUR PLATFORMU!
 
 ATKĀRTOJAM FAILU ATJAUNOŠANU (RESTORE) CAUR PLATFORMU!
 
+Veicam labojumus, lai manifestURI tiktu ierakstīts blokķēdē!
+
