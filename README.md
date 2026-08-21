@@ -65,3 +65,5 @@ Turpinām!
 
 Turpinām!
 
+Autā viss!!!
+
