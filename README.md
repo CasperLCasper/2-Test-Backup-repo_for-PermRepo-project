@@ -26,6 +26,8 @@ Turpinām!
 
 Turpinām!!!
 
+Pārbaudām!
+
 Šobrīd strādā!
 
 Pārbaudām!
