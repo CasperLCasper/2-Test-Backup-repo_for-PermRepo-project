@@ -57,3 +57,7 @@ Nepalīdzēja!
 
 Veicām labojumus, lai manifestURI tiktu ierakstīts blokķēdē!
 
+Nepalīdzēja!
+
+Veicām labojumus, lai manifestURI tiktu ierakstīts blokķēdē!
+
