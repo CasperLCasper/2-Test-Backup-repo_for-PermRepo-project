@@ -29,3 +29,5 @@ Turpinām!!!
 Šobrīd strādā!
 
 Pārbaudām!
+
+Turpinām!
