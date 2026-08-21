@@ -63,3 +63,5 @@ Veicām labojumus, lai manifestURI tiktu ierakstīts blokķēdē!
 
 Turpinām!
 
+Turpinām!
+
