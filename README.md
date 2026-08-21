@@ -25,3 +25,5 @@ Ir vērojamas problēmas!
 Turpinām!
 
 Turpinām!!!
+
+Šobrīd strādā!
