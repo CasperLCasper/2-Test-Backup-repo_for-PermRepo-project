@@ -32,6 +32,8 @@ Pārbaudām!
 
 Pārbaudām!
 
+Nomainīta secība!
+
 Turpinām!
 
 Pārbaudīsim, kā strādā "veselības pārbaude"!
