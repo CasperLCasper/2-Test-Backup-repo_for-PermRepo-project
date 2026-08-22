@@ -71,3 +71,5 @@ Autā viss!!!
 
 Atgriežamies pie testēšanas!
 
+Šifrēšana/atšifrēšana sagādā problēmas!
+
