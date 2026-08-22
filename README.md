@@ -63,6 +63,8 @@ Veicām labojumus, lai manifestURI tiktu ierakstīts blokķēdē!
 
 Turpinām!
 
+Pievienojām šifrēšanu!
+
 Turpinām!
 
 Autā viss!!!
