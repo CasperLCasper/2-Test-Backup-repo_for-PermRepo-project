@@ -67,3 +67,5 @@ Turpinām!
 
 Autā viss!!!
 
+Atgriežamies pie testēšanas!
+
