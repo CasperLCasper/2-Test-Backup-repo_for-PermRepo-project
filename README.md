@@ -77,3 +77,4 @@ Cīnāmies!
 
 Cīnāmies tālāk!
 
+Izskatās cerīgi!
