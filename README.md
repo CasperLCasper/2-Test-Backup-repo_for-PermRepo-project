@@ -75,3 +75,5 @@ Atgriežamies pie testēšanas!
 
 Cīnāmies!
 
+Cīnāmies tālāk!
+
