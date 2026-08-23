@@ -82,3 +82,5 @@ Izskatās cerīgi!
 Izskatās vēl cerīgāk!!!
 
 Turpinām cīnīties!
+
+Turpinām!
