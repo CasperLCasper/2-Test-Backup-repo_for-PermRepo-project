@@ -79,4 +79,4 @@ Cīnāmies tālāk!
 
 Izskatās cerīgi!
 
-Izskatās vēl cerīgāk!
+Izskatās vēl cerīgāk!!!
