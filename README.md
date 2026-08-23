@@ -84,3 +84,4 @@ Izskatās vēl cerīgāk!!!
 Turpinām cīnīties!
 
 Turpinām!
+Turpinām!
